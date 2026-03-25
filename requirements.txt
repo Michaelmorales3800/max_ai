@@ -1,0 +1,2 @@
+pyttsx3>=2.90
+vpython>=7.6.5
